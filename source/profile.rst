@@ -1,7 +1,7 @@
-Usage
-=====
+profile
+==========
 
-.. _installation:
+.. _Hello1:
 
 Installation
 ------------
@@ -13,3 +13,7 @@ To use Lumache, first install it using pip:
    (.venv) $ pip install lumache
 
 
+.. _section2:
+
+Section2
+--------
