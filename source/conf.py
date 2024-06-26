@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Try Sphinx'
+project = '林萬荃的 Documentation'
 copyright = '2024, Eric Lin'
 author = 'Eric Lin'
 release = '0.1'

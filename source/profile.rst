@@ -1,19 +1,4 @@
-profile
-==========
-
-.. _Hello1:
-
-Installation
-------------
-
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-
-.. _section2:
-
-Section2
+Profile
 --------
+
+I am a bachelor EE student having a strong passion in PCB layout and embedded system development.  I've used EasyEDA and Kicad to draw footprint, schematic, and layout. I am currently implementing LVGL and FreeRTOS.
